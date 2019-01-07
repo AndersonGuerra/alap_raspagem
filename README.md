@@ -4,7 +4,7 @@ Script feito para realizar a raspagem de dados da Cota para o Exercício da Ativ
 
 # ToDo
 
-[] Tornar o código mais amigável e orientado a objetos;
+[] Tornar o código mais amigável e orientado a objetos  
 [] Realizar a consulta de detalhes específicos de despesas
 
 # Como usar
